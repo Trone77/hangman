@@ -10,3 +10,4 @@ I have created a list of 5 fruits to be used for the game.
 The program will pick a random fruit from the list.
 
 The user will guess a letter and the program will confirm that the input is valid.
+![hangman_milestone_2](https://github.com/Trone77/hangman/assets/121750173/12bcdc5e-07b2-461a-b782-027d4dd0cc03)
