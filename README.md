@@ -11,3 +11,11 @@ The program will pick a random fruit from the list.
 
 The user will guess a letter and the program will confirm that the input is valid.
 ![hangman_milestone_2](https://github.com/Trone77/hangman/assets/121750173/12bcdc5e-07b2-461a-b782-027d4dd0cc03)
+
+## milestone_3
+
+I have created a function to check if the letter guessed is in the word random word chosen from the list.
+
+I have created a function which allows the user guess a letter and confirm a valid input.
+
+![hangman_milestone_3](https://github.com/Trone77/hangman/assets/121750173/fd773cc6-4a2f-4cbb-bf6d-6d900255e900)
