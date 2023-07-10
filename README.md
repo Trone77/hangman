@@ -29,6 +29,24 @@ I defined attributes for the word list, number of lives, random word chosen, gue
 
 I have created a method to check if the letter guessed is in the random word chosen from the list.
 
-I have created a function which allows the user guess a letter, confirm if it is a valid input and check if it has already been used.
+I have created a method which allows the user guess a letter, confirm if it is a valid input and check if it has already been used.
 
-![hangman_milestone_4](https://github.com/Trone77/hangman/assets/121750173/4264ecfc-4ff2-45ff-8ffd-3fa1ab51a8cc)
+![hangman_milestone_4](https://github.com/Trone77/hangman/assets/121750173/4264ecfc-4ff2-45ff-8ffd-3fa1ab51a8cc
+
+## milestone_5
+
+I bring all the code together.
+
+I created a function which allows the game be played till the user either guesses the correct word or runs out of guesses.
+
+When the function play_game is called, with a list of words as an attribute, the hangman game begins.
+
+A random word will be chosen from the word_list and the user will need to guess the letters of the word correctly to win within the given number of lives (5 lives)
+
+The user will be asked for input, the methods in the hangman class will check for the validity of the input and if the guessed letter is correct.
+
+It will continue to ask for input till the user runs out of lives or guesses all the letters of the hidden word.![hangman_milestone_5_pic_3](https://github.com/Trone77/hangman/assets/121750173/c58f134d-eb22-4e44-a971-8f0ff8c108b0)
+![hangman_milestone_5_pic_2](https://github.com/Trone77/hangman/assets/121750173/d952caf0-a853-4f09-b1ed-8af44cf5eaa8)
+![hangman_milestone_5_pic_1](https://github.com/Trone77/hangman/assets/121750173/7b0e7362-733f-405b-9b6e-7b3e59b51749)
+
+
