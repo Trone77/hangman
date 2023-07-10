@@ -25,6 +25,8 @@ I have created a function which allows the user guess a letter and confirm a val
 
 I have created the hangman class.
 
+I defined attributes for the word list, number of lives, random word chosen, guessed word, number of letters and a list of guessed letters.
+
 I have created a method to check if the letter guessed is in the random word chosen from the list.
 
 I have created a function which allows the user guess a letter, confirm if it is a valid input and check if it has already been used.
